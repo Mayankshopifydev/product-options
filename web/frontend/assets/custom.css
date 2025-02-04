@@ -1,0 +1,70 @@
+/* Model */
+.Polaris-Modal-Dialog__Modal {
+    max-width: 90% !important;
+    width: 90%;
+    margin: 0;
+  }
+  .ClassBanner .Polaris-FormLayout__Items{
+    align-items: end;
+  }
+ .d-flex{
+  display: flex;
+  gap: 20px;
+ }
+ .d-flex .Polaris-Icon{
+  margin: 0;
+
+ }
+ .option_img img{
+    width: 40%;
+    margin-bottom: 20px;
+ }
+ .footer_text {
+  margin-top: 20px;
+  text-align: center;
+ }
+ .text-center{
+  text-align: center;
+ }
+ .footer_text h6{
+  font-weight: bold;
+ margin-bottom: 10px; 
+ }
+ .footer_text p{
+  margin-bottom: 10px;
+ }
+
+ .footer_text a{
+  text-decoration: none;
+  color: #366957;
+ }
+ .tab_btn {
+  border-top:1px solid #E4E5E7;
+}
+ .tab_btn button {
+  border: 0;
+  padding:20px 0;
+  box-shadow:unset;
+}
+.tab_btn button:hover{
+  background: unset;
+}
+.tab_btn button .Polaris-Button__Content {
+  display:flex;
+  justify-content:space-between;
+}
+.tab_btn button .Polaris-Button__Content .Polaris-Button__Text{
+  font-weight:bold
+}
+
+.mb-2 {
+  margin-bottom: 20px;
+}
+.tab_btn .Polaris-Button__Text {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.optionlabelstyle .Polaris-FormLayout__Items {
+  align-items: center;
+}
